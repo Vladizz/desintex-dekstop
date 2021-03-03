@@ -1,1 +1,1 @@
-Превью https://vladizz.github.io/desintex-dekstop/
+Лэндинг.Превью https://vladizz.github.io/desintex-dekstop/
